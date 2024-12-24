@@ -4,7 +4,7 @@ Welcome to the **CodeAnt AI Assessment**
 
 ## 🔗 Live Demo
 
-<a href="https://codeant-ai-assesment-muku.netlify.app/">Live Demo</a>
+<a href="https://muku-ai-assessment.netlify.app/">Live Demo</a>
 
 ## 🛠️ Installation and Setup
 
