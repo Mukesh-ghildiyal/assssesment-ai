@@ -13,8 +13,8 @@ Follow these steps to run the project locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/codeant-ai-assessment.git
-   cd codeant-ai-assessment
+   git clone https://github.com/Mukesh-ghildiyal/assssesment-ai.git
+   cd assssesment-ai
    ```
 
 2. **Install Dependencies**
